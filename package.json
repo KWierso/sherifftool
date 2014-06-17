@@ -5,7 +5,7 @@
   "author": "KWierso", 
   "url": "", 
   "dependencies": ["api-utils", "addon-kit"], 
-  "version": "0.2.2", 
+  "version": "0.3", 
   "lib": "lib", 
   "fullName": "SHERIFFTOOL", 
   "main": "main", 
